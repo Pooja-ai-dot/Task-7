@@ -1,6 +1,6 @@
 # Task-7
 ##  Task 7:Fetch and Display Data from a Public API Using Fetch API.
-🌐 Public API Used
+🌐 Public API Used <br>
 We'll use the JSONPlaceholder API — a free fake REST API for testing and prototyping.
 ### Display Fetched user data
 ```
